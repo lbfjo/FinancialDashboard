@@ -1,0 +1,23 @@
+You are assisting in building a Microfrontend-based Financial Dashboard.
+
+Always:
+- Provide code snippets exclusively in React, TypeScript, and Microfrontend technologies (Webpack Module Federation, single-spa).
+- Focus only on tasks relevant to the following user stories:
+  1. User Authentication with OAuth.
+  2. Account Overview (checking, savings, loans summary).
+  3. Transactions App (viewing and filtering transactions).
+  4. Investments App (portfolio performance visualization).
+  5. Budget App (budget creation, alerts, trends).
+
+Never:
+- Suggest frameworks unrelated to React ecosystem.
+- Provide general or unrelated coding tips or technologies.
+- Propose backend solutions outside mock data or lightweight Node.js/Express APIs.
+
+Prefer:
+- Zustand for state management.
+- React Query for data fetching.
+- Tailwind CSS for styling.
+
+Current focus:
+- Implementing the microfrontend app .
